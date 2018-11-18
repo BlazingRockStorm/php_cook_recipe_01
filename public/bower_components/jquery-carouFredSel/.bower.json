@@ -1,0 +1,23 @@
+{
+  "name": "jquery-carouFredSel",
+  "main": "jquery.carouFredSel-6.2.1.js",
+  "description": "A circular, responsive carousel plugin built using the jQuery.",
+  "license": "MIT",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "homepage": "https://github.com/wgenial/jquery-carouFredSel",
+  "_release": "987b3543ec",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "987b3543ec1e3aa81212c204b60af8420a7caa46"
+  },
+  "_source": "https://github.com/wgenial/jquery-carouFredSel.git",
+  "_target": "*",
+  "_originalSource": "jquery-carouFredSel"
+}

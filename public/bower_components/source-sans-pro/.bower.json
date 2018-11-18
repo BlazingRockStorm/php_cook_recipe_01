@@ -1,0 +1,13 @@
+{
+  "name": "source-sans-pro",
+  "homepage": "https://github.com/adobe-fonts/source-sans-pro",
+  "_release": "a9b88e4e41",
+  "_resolution": {
+    "type": "branch",
+    "branch": "release",
+    "commit": "a9b88e4e41859f7aaf7077cb365764249efe9885"
+  },
+  "_source": "git://github.com/adobe-fonts/source-sans-pro.git",
+  "_target": "release",
+  "_originalSource": "git://github.com/adobe-fonts/source-sans-pro.git"
+}
