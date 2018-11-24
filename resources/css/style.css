@@ -248,6 +248,7 @@ header h1 a {
 
 header h1 a img {
 	display: block;
+    padding-top: 12px;
 }
 
 .main {
@@ -256,6 +257,11 @@ header h1 a img {
 
 
 /*Content*/
+
+.content{
+    background: #ffffff;
+    padding-bottom: 30px;
+}
 
 .content h2 {
 	padding-top: 36px;

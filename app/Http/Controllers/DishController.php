@@ -31,7 +31,7 @@ class DishController extends Controller
      */
     public function create()
     {
-        //
+        return view('dishes.create');
     }
 
     /**
@@ -53,7 +53,8 @@ class DishController extends Controller
      */
     public function show($id)
     {
-        $dish = Dish::find($id);
+        $dish = Dish::with('user')->findOrFail($id);
+    
         return view('dishes.show', compact('dish'));
     }
 
